@@ -1,4 +1,5 @@
 # Domain To IP Converter Script
+# Just for Learn and fun
 
 import socket
 import pyfiglet
